@@ -1,3 +1,14 @@
+# ABOUT THIS PROJECT
+
+This project is work in progress. Initialised as part of my course in 
+Web & Software Development with Code Institute, certified and accredited by 
+Edinburgh Napier University.
+
+Scheduled to graduate later in 2018.
+
+
+
+
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
